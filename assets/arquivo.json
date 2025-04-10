@@ -1,0 +1,533 @@
+[
+    {
+    "id": 1,
+    "nome": "O Silêncio dos Inocentes",
+    "descricao": "Um jovem agente do FBI deve consultar um prisioneiro canibal para capturar um serial killer.",
+    "ano_lancamento": 1991,
+    "atores": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+    "diretores": ["Jonathan Demme"],
+    "tempo_duracao": "118 min",
+    "classificacao_indicativa": "16"
+    },
+    {
+        "id": 2,
+        "nome": "Seven: Os Sete Crimes Capitais",
+        "descricao": "Dois detetives caçam um serial killer que usa os sete pecados capitais como tema para seus crimes.",
+        "ano_lancamento": 1995,
+        "atores": ["Morgan Freeman", "Brad Pitt", "Kevin Spacey"],
+        "diretores": ["David Fincher"],
+        "tempo_duracao": "127 min",
+        "classificacao_indicativa": "18"
+    },
+    {
+        "id": 3,
+        "nome": "Garota Exemplar",
+        "descricao": "A misteriosa desaparição de uma mulher leva a uma intensa cobertura da mídia e a uma investigação policial.",
+        "ano_lancamento": 2014,
+        "atores": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris"],
+        "diretores": ["David Fincher"],
+        "tempo_duracao": "149 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 4,
+        "nome": "A Ilha do Medo",
+        "descricao": "Um agente federal investiga o desaparecimento de uma prisioneira em um hospital psiquiátrico.",
+        "ano_lancamento": 2010,
+        "atores": ["Leonardo DiCaprio", "Emily Mortimer", "Mark Ruffalo"],
+        "diretores": ["Martin Scorsese"],
+        "tempo_duracao": "138 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 5,
+        "nome": "Os Suspeitos",
+        "descricao": "Um pai desesperado tenta encontrar sua filha desaparecida, enquanto a polícia investiga um suspeito.",
+        "ano_lancamento": 2013,
+        "atores": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis"],
+        "diretores": ["Denis Villeneuve"],
+        "tempo_duracao": "153 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 6,
+        "nome": "O Sexto Sentido",
+        "descricao": "Um garoto que vê pessoas mortas busca a ajuda de um psicólogo.",
+        "ano_lancamento": 1999,
+        "atores": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"],
+        "diretores": ["M. Night Shyamalan"],
+        "tempo_duracao": "107 min",
+        "classificacao_indicativa": "10"
+    },
+    {
+        "id": 7,
+        "nome": "A Janela Secreta",
+        "descricao": "Um escritor se vê envolvido em um jogo psicológico com um estranho que o acusa de plágio.",
+        "ano_lancamento": 2004,
+        "atores": ["Johnny Depp", "John Turturro", "Maria Bello"],
+        "diretores": ["David Koepp"],
+        "tempo_duracao": "96 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 8,
+        "nome": "Cisne Negro",
+        "descricao": "Uma bailarina se torna obcecada por sua performance, levando-a a um estado de paranoia.",
+        "ano_lancamento": 2010,
+        "atores": ["Natalie Portman", "Mila Kunis", "Vincent Cassel"],
+        "diretores": ["Darren Aronofsky"],
+        "tempo_duracao": "108 min",
+        "classificacao_indicativa": "16"
+    },
+     {
+         "id": 9,
+         "nome": "O Orfanato",
+         "descricao": "Uma mulher retorna ao orfanato onde cresceu, apenas para descobrir que seu filho adotivo desapareceu.",
+         "ano_lancamento": 2007,
+         "atores": ["Belén Rueda", "Fernando Cayo", "Roger Príncep"],
+         "diretores": ["J.A. Bayona"],
+         "tempo_duracao": "105 min",
+         "classificacao_indicativa": "14"
+     },
+     {
+         "id": 12,
+         "nome": "A Estrada",
+         "descricao": "Um pai e seu filho lutam para sobreviver em um mundo pós-apocalíptico.",
+         "ano_lancamento": 2009,
+         "atores": ["Viggo Mortensen", "Kodi Smit-McPhee"],
+         "diretores": ["John Hillcoat"],
+         "tempo_duracao": "111 min",
+         "classificacao_indicativa": "16"
+     },
+     {
+         "id": 13,
+         "nome": "O Homem Duplicado",
+         "descricao": "Um professor descobre que tem um doppelgänger e se envolve em uma espiral de paranoia.",
+         "ano_lancamento": 2013,
+         "atores": ["Jake Gyllenhaal", "Melanie Laurent", "Isabella Rossellini"],
+         "diretores": ["Denis Villeneuve"],
+         "tempo_duracao": "90 min",
+         "classificacao_indicativa": "16"
+     },
+     {
+         "id": 14,
+         "nome": "A Morte Pede Carona",
+         "descricao": "Um jovem pega carona com um estranho que se revela um psicopata.",
+         "ano_lancamento": 2007,
+         "atores": ["Josh Duhamel", "Laura Graham"],
+         "diretores": ["Eric Bress"],
+         "tempo_duracao": "84 min",
+         "classificacao_indicativa": "14"
+     },
+     {
+         "id": 15,
+         "nome": "O Chamado",
+         "descricao": "Uma jornalista investiga uma fita de vídeo que causa a morte de quem a assiste.",
+         "ano_lancamento": 2002,
+         "atores": ["Naomi Watts", "Martin Henderson"],
+         "diretores": ["Gore Verbinski"],
+         "tempo_duracao": "115 min",
+         "classificacao_indicativa": "14"
+     },
+     {
+         "id": 16,
+         "nome": "Fragmentado",
+         "descricao": "Um homem com múltiplas personalidades sequestra três garotas.",
+         "ano_lancamento": 2016,
+         "atores": ["James McAvoy", "Anya Taylor-Joy"],
+         "diretores": ["M. Night Shyamalan"],
+         "tempo_duracao": "117 min",
+         "classificacao_indicativa": "16"
+     },
+     {
+         "id": 17,
+         "nome": "O Último Suspeito",
+         "descricao": "Um grupo de amigos se vê em um jogo mortal após um assassinato.",
+         "ano_lancamento": 2019,
+         "atores": ["Daniel Kaluuya", "Jodie Turner-Smith"],
+         "diretores": ["Melina Matsoukas"],
+         "tempo_duracao": "101 min",
+         "classificacao_indicativa": "16"
+     },
+     {
+         "id": 18,
+         "nome": "A Garota no Trem",
+         "descricao": "Uma mulher se envolve em um mistério após observar algo suspeito durante suas viagens de trem.",
+         "ano_lancamento": 2016,
+         "atores": ["Emily Blunt", "Rebecca Ferguson"],
+         "diretores": ["Tate Taylor"],
+         "tempo_duracao": "112 min",
+         "classificacao_indicativa": "16"
+     },
+     {
+         "id": 19,
+         "nome": "O Homem nas Trevas",
+         "descricao": "Um grupo de jovens invade a casa de um homem cego, mas as coisas não saem como planejado.",
+         "ano_lancamento": 2016,
+         "atores": ["Stephen Lang", "Jane Levy"],
+         "diretores": ["Fede Alvarez"],
+         "tempo_duracao": "88 min",
+         "classificacao_indicativa": "16"
+     },
+    {
+        "id": 20,
+        "nome": "A Visita",
+        "descricao": "Duas crianças visitam os avós e descobrem que algo está muito errado com eles.",
+        "ano_lancamento": 2015,
+        "atores": ["Olivia DeJonge", "Ed Oxenbould", "Deanna Dunagan"],
+        "diretores": ["M. Night Shyamalan"],
+        "tempo_duracao": "94 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 21,
+        "nome": "O Convidado",
+        "descricao": "Um ex-soldado aparece na casa de uma família, alegando ser amigo do filho que morreu em combate.",
+        "ano_lancamento": 2014,
+        "atores": ["Dan Stevens", "Maika Monroe"],
+        "diretores": ["Adam Wingard"],
+        "tempo_duracao": "100 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 22,
+        "nome": "A Casa dos Espíritos",
+        "descricao": "Uma saga familiar que abrange várias gerações, cheia de mistério e segredos.",
+        "ano_lancamento": 1993,
+        "atores": ["Meryl Streep", "Jeremy Irons"],
+        "diretores": ["Bille August"],
+        "tempo_duracao": "140 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 23,
+        "nome": "O Sétimo Selo",
+        "descricao": "Um cavaleiro medieval joga xadrez com a Morte enquanto busca respostas sobre a vida.",
+        "ano_lancamento": 1957,
+        "atores": ["Max von Sydow", "Gunnar Björnstrand"],
+        "diretores": ["Ingmar Bergman"],
+        "tempo_duracao": "96 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 24,
+        "nome": "A Noite dos Mortos-Vivos",
+        "descricao": "Um grupo de pessoas se refugia em uma casa enquanto zumbis invadem o mundo.",
+        "ano_lancamento": 1968,
+        "atores": ["Duane Jones", "Judith O'Dea"],
+        "diretores": ["George A. Romero"],
+        "tempo_duracao": "96 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 25,
+        "nome": "O Labirinto do Fauno",
+        "descricao": "Uma jovem se perde em um mundo de fantasia e terror durante a Guerra Civil Espanhola.",
+        "ano_lancamento": 2006,
+        "atores": ["Ivana Baquero", "Sergi López"],
+        "diretores": ["Guillermo del Toro"],
+        "tempo_duracao": "118 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 26,
+        "nome": "O Exorcista",
+        "descricao": "Uma mãe busca ajuda para sua filha possuída por uma entidade demoníaca.",
+        "ano_lancamento": 1973,
+        "atores": ["Ellen Burstyn", "Max von Sydow"],
+        "diretores": ["William Friedkin"],
+        "tempo_duracao": "132 min",
+        "classificacao_indicativa": "18"
+    },
+    {
+        "id": 27,
+        "nome": "O Silêncio dos Inocentes",
+        "descricao": "Um jovem agente do FBI deve consultar um prisioneiro canibal para capturar um serial killer.",
+        "ano_lancamento": 1991,
+        "atores": ["Jodie Foster", "Anthony Hopkins"],
+        "diretores": ["Jonathan Demme"],
+        "tempo_duracao": "118 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 28,
+        "nome": "A Chave Mestra",
+        "descricao": "Uma enfermeira se envolve em um mistério sobrenatural ao cuidar de um paciente em uma casa antiga.",
+        "ano_lancamento": 2005,
+        "atores": ["Kate Hudson", "John Hurt"],
+        "diretores": ["Iain Softley"],
+        "tempo_duracao": "104 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 29,
+        "nome": "O Último Exorcismo",
+        "descricao": "Um pastor documenta seu último exorcismo, mas as coisas tomam um rumo inesperado.",
+        "ano_lancamento": 2010,
+        "atores": ["Patrick Fabian", "Ashley Bell"],
+        "diretores": ["Daniel Stamm"],
+        "tempo_duracao": "87 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 30,
+        "nome": "A Perdição",
+        "descricao": "Um homem se vê preso em um jogo mortal após ser sequestrado por um grupo de criminosos.",
+        "ano_lancamento": 2014,
+        "atores": ["James McAvoy", "Daniel Kaluuya"],
+        "diretores": ["Jon Wright"],
+        "tempo_duracao": "90 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 31,
+        "nome": "A Casa do Lago",
+        "descricao": "Um romance entre duas pessoas que se comunicam através de cartas deixadas em uma caixa de correio mágica.",
+        "ano_lancamento": 2006,
+        "atores": ["Keanu Reeves", "Sandra Bullock"],
+        "diretores": ["Alejandro Agresti"],
+        "tempo_duracao": "99 min",
+        "classificacao_indicativa": "10"
+    },
+    {
+        "id": 32,
+        "nome": "O Homem do Futuro",
+        "descricao": "Um cientista viaja no tempo e enfrenta as consequências de suas ações.",
+        "ano_lancamento": 2011,
+        "atores": ["Wagner Moura", "Alinne Moraes"],
+        "diretores": ["Cláudio Torres"],
+        "tempo_duracao": "106 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 33,
+        "nome": "A Noite dos Mortos-Vivos",
+        "descricao": "Um grupo de pessoas se refugia em uma casa enquanto zumbis invadem o mundo.",
+        "ano_lancamento": 1968,
+        "atores": ["Duane Jones", "Judith O'Dea"],
+        "diretores": ["George A. Romero"],
+        "tempo_duracao": "96 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 34,
+        "nome": "A Visita",
+        "descricao": "Duas crianças visitam os avós e descobrem que algo está muito errado com eles.",
+        "ano_lancamento": 2015,
+        "atores": ["Olivia DeJonge", "Ed Oxenbould"],
+        "diretores": ["M. Night Shyamalan"],
+        "tempo_duracao": "94 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 35,
+        "nome": "O Chamado",
+        "descricao": "Uma jornalista investiga uma fita de vídeo que causa a morte de quem a assiste.",
+        "ano_lancamento": 2002,
+        "atores": ["Naomi Watts", "Martin Henderson"],
+        "diretores": ["Gore Verbinski"],
+        "tempo_duracao": "115 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 36,
+        "nome": "O Convidado",
+        "descricao": "Um ex-soldado aparece na casa de uma família, alegando ser amigo do filho que morreu em combate.",
+        "ano_lancamento": 2014,
+        "atores": ["Dan Stevens", "Maika Monroe"],
+        "diretores": ["Adam Wingard"],
+        "tempo_duracao": "100 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 37,
+        "nome": "A Garota no Trem",
+        "descricao": "Uma mulher se envolve em um mistério após observar algo suspeito durante suas viagens de trem.",
+        "ano_lancamento": 2016,
+        "atores": ["Emily Blunt", "Rebecca Ferguson"],
+        "diretores": ["Tate Taylor"],
+        "tempo_duracao": "112 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 38,
+        "nome": "O Homem Duplicado",
+        "descricao": "Um professor descobre que tem um doppelgänger e se envolve em uma espiral de paranoia.",
+        "ano_lancamento": 2013,
+        "atores": ["Jake Gyllenhaal", "Melanie Laurent"],
+        "diretores": ["Denis Villeneuve"],
+        "tempo_duracao": "90 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 39,
+        "nome": "A Janela Secreta",
+        "descricao": "Um escritor se vê envolvido em um jogo psicológico com um estranho que o acusa de plágio.",
+        "ano_lancamento": 2004,
+        "atores": ["Johnny Depp", "John Turturro"],
+        "diretores": ["David Koepp"],
+        "tempo_duracao": "96 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 40,
+        "nome": "Cisne Negro",
+        "descricao": "Uma bailarina se torna obcecada por sua performance, levando-a a um estado de paranoia.",
+        "ano_lancamento": 2010,
+        "atores": ["Natalie Portman", "Mila Kunis"],
+        "diretores": ["Darren Aronofsky"],
+        "tempo_duracao": "108 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 41,
+        "nome": "A Ilha do Medo",
+        "descricao": "Um agente federal investiga o desaparecimento de uma prisioneira em um hospital psiquiátrico.",
+        "ano_lancamento": 2010,
+        "atores": ["Leonardo DiCaprio", "Emily Mortimer"],
+        "diretores": ["Martin Scorsese"],
+        "tempo_duracao": "138 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 42,
+        "nome": "Garota Exemplar",
+        "descricao": "A misteriosa desaparição de uma mulher leva a uma intensa cobertura da mídia e a uma investigação policial.",
+        "ano_lancamento": 2014,
+        "atores": ["Ben Affleck", "Rosamund Pike"],
+        "diretores": ["David Fincher"],
+        "tempo_duracao": "149 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 43,
+        "nome": "Seven: Os Sete Crimes Capitais",
+        "descricao": "Dois detetives caçam um serial killer que usa os sete pecados capitais como tema para seus crimes.",
+        "ano_lancamento": 1995,
+        "atores": ["Morgan Freeman", "Brad Pitt"],
+        "diretores": ["David Fincher"],
+        "tempo_duracao": "127 min",
+        "classificacao_indicativa": "18"
+    },
+    {
+        "id": 44,
+        "nome": "O Silêncio dos Inocentes",
+        "descricao": "Um jovem agente do FBI deve consultar um prisioneiro canibal para capturar um serial killer.",
+        "ano_lancamento": 1991,
+        "atores": ["Jodie Foster", "Anthony Hopkins"],
+        "diretores": ["Jonathan Demme"],
+        "tempo_duracao": "118 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 45,
+        "nome": "A Visita",
+        "descricao": "Duas crianças visitam os avós e descobrem que algo está muito errado com eles.",
+        "ano_lancamento": 2015,
+        "atores": ["Olivia DeJonge", "Ed Oxenbould"],
+        "diretores": ["M. Night Shyamalan"],
+        "tempo_duracao": "94 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 46,
+        "nome": "O Exorcista",
+        "descricao": "Uma mãe busca ajuda para sua filha possuída por uma entidade demoníaca.",
+        "ano_lancamento": 1973,
+        "atores": ["Ellen Burstyn", "Max von Sydow"],
+        "diretores": ["William Friedkin"],
+        "tempo_duracao": "132 min",
+        "classificacao_indicativa": "18"
+    },
+    {
+        "id": 47,
+        "nome": "A Chave Mestra",
+        "descricao": "Uma enfermeira se envolve em um mistério sobrenatural ao cuidar de um paciente em uma casa antiga.",
+        "ano_lancamento": 2005,
+        "atores": ["Kate Hudson", "John Hurt"],
+        "diretores": ["Iain Softley"],
+        "tempo_duracao": "104 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 48,
+        "nome": "O Último Exorcismo",
+        "descricao": "Um pastor documenta seu último exorcismo, mas as coisas tomam um rumo inesperado.",
+        "ano_lancamento": 2010,
+        "atores": ["Patrick Fabian", "Ashley Bell"],
+        "diretores": ["Daniel Stamm"],
+        "tempo_duracao": "87 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 49,
+        "nome": "A Perdição",
+        "descricao": "Um homem se vê preso em um jogo mortal após ser sequestrado por um grupo de criminosos.",
+        "ano_lancamento": 2014,
+        "atores": ["James McAvoy", "Daniel Kaluuya"],
+        "diretores": ["Jon Wright"],
+        "tempo_duracao": "90 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 50,
+        "nome": "A Casa do Lago",
+        "descricao": "Um romance entre duas pessoas que se comunicam através de cartas deixadas em uma caixa de correio mágica.",
+        "ano_lancamento": 2006,
+        "atores": ["Keanu Reeves", "Sandra Bullock"],
+        "diretores": ["Alejandro Agresti"],
+        "tempo_duracao": "99 min",
+        "classificacao_indicativa": "10"
+    },
+    {
+        "id": 51,
+        "nome": "O Homem do Futuro",
+        "descricao": "Um cientista viaja no tempo e enfrenta as consequências de suas ações.",
+        "ano_lancamento": 2011,
+        "atores": ["Wagner Moura", "Alinne Moraes"],
+        "diretores": ["Cláudio Torres"],
+        "tempo_duracao": "106 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 52,
+        "nome": "A Noite dos Mortos-Vivos",
+        "descricao": "Um grupo de pessoas se refugia em uma casa enquanto zumbis invadem o mundo.",
+        "ano_lancamento": 1968,
+        "atores": ["Duane Jones", "Judith O'Dea"],
+        "diretores": ["George A. Romero"],
+        "tempo_duracao": "96 min",
+        "classificacao_indicativa": "16"
+    },
+    {
+        "id": 53,
+        "nome": "A Visita",
+        "descricao": "Duas crianças visitam os avós e descobrem que algo está muito errado com eles.",
+        "ano_lancamento": 2015,
+        "atores": ["Olivia DeJonge", "Ed Oxenbould"],
+        "diretores": ["M. Night Shyamalan"],
+        "tempo_duracao": "94 min",
+        "classificacao_indicativa": "12"
+    },
+    {
+        "id": 54,
+        "nome": "O Chamado",
+        "descricao": "Uma jornalista investiga uma fita de vídeo que causa a morte de quem a assiste.",
+        "ano_lancamento": 2002,
+        "atores": ["Naomi Watts", "Martin Henderson"],
+        "diretores": ["Gore Verbinski"],
+        "tempo_duracao": "115 min",
+        "classificacao_indicativa": "14"
+    },
+    {
+        "id": 55,
+        "nome": "O Convidado",
+        "descricao": "Um ex-soldado aparece na casa de uma família, alegando ser amigo do filho que morreu em combate.",
+        "ano_lancamento": 2014,
+        "atores": ["Dan Stevens", "Maika Monroe"],
+        "diretores": ["Adam Wingard"],
+        "tempo_duracao": "100 min",
+        "classificacao_indicativa": "16"
+    }
+                            
+    ]
