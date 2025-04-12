@@ -7,4 +7,5 @@ Este projeto consiste na utilização de um arquivo no formato JSON como fonte d
 
 ## Links para a wiki:
 <a href="https://github.com/guilhermeferraresi/Filmes_JSON/wiki/Explica%C3%A7%C3%B5es-do-desenvolvimento">Exlicações do desenvolvimento</a>
+<br/>
 <a href="https://github.com/guilhermeferraresi/Filmes_JSON/wiki/Arquivo-JSON">Arquivo JSON</a>
